@@ -50,7 +50,7 @@ font-family: 'Lacquer', sans-serif;
 }
 
 section.hero, div.hero-body {
-  background-image: url(8697.jpg) !important;
+  background: url(8697.jpg) !important;
   background-size: cover;
   background-position: center;
 }
