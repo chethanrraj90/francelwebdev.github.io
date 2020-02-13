@@ -49,10 +49,16 @@ font-family: 'Lacquer', sans-serif;
 
 }
 
-section.hero, div.hero-body {
-  background: url(8697.jpg) !important;
+section.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/artificial-intelligence-3382507_1280.jpg") !important;
   background-size: cover;
   background-position: center;
+}
+
+footer {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/art-blueprint-brainstorming-8704.jpg") !important;
+  background-size: cover;
+  background-position: center;  
 }
 
 /*Mon code*/
